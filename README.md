@@ -1,4 +1,4 @@
-# 👋 I'm Adrian Avendaño  
+# 👋 I'm Adrian Avendano
 
 Building at the intersection of **cognition, culture, and code** — exploring how technology reshapes human attention and connection.  
 
