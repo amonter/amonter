@@ -8,7 +8,7 @@ This space is my lab of **open projects, prototypes, and thought experiments** o
 
 ### 🌍 About  
 Entrepreneur, connector, and hacker-journalist with 15+ years in tech.  
-I’ve founded five companies, traveled through 85+ countries, and lived in 20 — from Seoul and Berlin to Tbilisi and Mexico City.  
+I’ve founded five companies, traveled through 90 countries, and lived in 25 
 Each city has been a neural node in a long experiment on how environment shapes innovation.  
 
 In 2014, I launched **[PeopleHunt](https://www.macworld.com/article/224023/5-apps-for-making-friends-in-a-new-city.html)** — named by *MacWorld* as one of the **Top 5 apps** for making friends in new cities, backed by **Enterprise Ireland** and **StartupChile**.  
