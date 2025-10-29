@@ -20,6 +20,8 @@ Creator of **Bridging Edges**, where 65+ tech leaders shared insights on how cul
 
 ### 🧠 Current Focus  
 **[Attention OS](https://github.com/amonter/Attention-OS)** — an open framework treating attention as capital that compounds over time.  
+**[Agent-A](https://agenta.chat/sixmodels)** — multi-agent AI platform where six AI models collaborate, debate, and create — exploring collective intelligence in real time.  
+
 
 ---
 
